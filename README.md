@@ -8,7 +8,7 @@ This is a simple web-based implementation of the Regula-Falsi (False Position) M
   <li>Highlights the final root approximation once the tolerance condition is met.</li>
   <li>Responsive and user-friendly UI with a clean layout.</li>
 </ul>
-
+<p>Live: <a href="https://siva-1916.github.io/Regula-Falsi-Method/">🔗Link</a></p>
 # Technologies Used:
 
 HTML, CSS, JavaScript (for UI and logic)
